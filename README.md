@@ -1,7 +1,6 @@
 # Detect SSL Domain Expired
 
 Made by Phatnt
-
 01/04/2020
 
 Require package
