@@ -12,6 +12,7 @@ python kov_detect_domain_ssl.py -d [domain name] -f [file path contain list doma
 ```
 
 **EX:**
+
 With a domain name
 ```
 python kov_detect_domain_ssl.py -d google.com -a 30
